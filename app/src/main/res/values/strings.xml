@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BICOS</string>
+    <string name="create_note">새 메모</string>
+    <string name="add_photo">사진 등록</string>
+    <string name="delete_note">삭제</string>
+    <string name="edit_note">수정</string>
+    <string name="save_note">저장</string>
+    <string name="clear_search">검색기록 삭제</string>
+    <string name="add_image">이미지 등록</string>
+
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="text_home">홈</string>
+    <string name="text_locker">보관함</string>
+    <string name="text_calendar">캘린더</string>
+    <string name="text_myinfo">내 정보</string>
+    <string name="text_addclient">고객등록</string>
+
+    <string name="text_memo">메모</string>
+    <string name="text_bcard">명함</string>
+    <string name="text_client">고객</string>
+    <string name="text_documents">서류</string>
+    <string name="text_rec">음성</string>
+    <string name="text_question">미정</string>
+
+</resources>
